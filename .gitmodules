@@ -1,8 +1,8 @@
 [submodule "submodule_test"]
 	path = submodule_test
-	url = git@github.com:davies-tl/submodule_test.git
 	branch = master
+	url = git@github.com:davies-tl/submodule_test.git
 [submodule "submodule_test_2"]
 	path = submodule_test_2
-	url = git@github.com:davies-tl/submodule_test_2.git
 	branch = master
+	url = git@github.com:davies-tl/submodule_test_2.git 
