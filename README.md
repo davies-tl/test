@@ -3,3 +3,5 @@ GitHub practice using the git bash shell command line.
 
 You will find test submodules used to practice formating
 my GitHub account.
+
+Learning git is fun!
