@@ -1,4 +1,0 @@
-This is my first push.
-Practice makes perfect!
-
-This is the second edit to this file using vim.
