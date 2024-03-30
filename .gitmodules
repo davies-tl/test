@@ -13,6 +13,7 @@
 [submodule "submodule_test_4"]
 	path = submodule_test_4
 	url = git@github.com:davies-tl/submodule_test_4.git
+	branch = master
 [submodule "submodule_test_last"]
 	path = submodule_test_last
 	url = git@github.com:davies-tl/submodule_test_last.git
