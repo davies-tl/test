@@ -18,3 +18,7 @@
 	path = submodule_test_last
 	url = git@github.com:davies-tl/submodule_test_last.git
 	branch = master
+[submodule "Rebasing"]
+	path = Rebasing
+	url = git@github.com:davies-tl/Rebasing.git
+	branch = master
